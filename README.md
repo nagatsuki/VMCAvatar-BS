@@ -3,6 +3,11 @@
 VMCAvatarは[バーチャルモーションキャプチャー](https://github.com/sh-akira/VirtualMotionCapture)からモーションデータを受け取って[Beat Saber](https://beatsaber.com/)内にアバターを表示するModです。
 
 
+## ダウンロード
+
+- [リリース版バイナリ](https://github.com/nagatsuki/VMCAvatar-BS/releases)
+
+
 ## インストール
 
 1. バーチャルモーションキャプチャーv0.42以降に更新する
