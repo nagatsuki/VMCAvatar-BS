@@ -16,6 +16,19 @@ VMCAvatarは[バーチャルモーションキャプチャー](https://github.co
 4. キャリブレーションをMRモード(下の二つのどちらか)で実行する
 
 
+## 設定項目
+
+Mod Settings→VMC Avatar
+
+- **Avatar visible in first person(default: ON)** - OFFにすると、HMD内にアバターが表示されなくなります。
+袖が大きすぎて視界が塞がれてプレイに支障が出るような状況で使うことを想定しています。
+- **TrueVR Mode(default: OFF)** - 通常はプレイヤーの腕の長さと高さを基準にアバターのサイズを変更しますが、ONにするとアバターの腕の長さと高さにプレイヤーのサイズを変更します。
+ゲーム内の身長設定を適宜調整してください。(身長10cm変更するとノーツや壁の高さは約5cm変わりますが、身長140cm～300cmの範囲でしか変動しないようです)  
+**「お前がアバターになるんだよ！」 by 猫井夕菜**
+- **Enable VRMBlendShape(default: ON)** - BlendShape(まばたき、表情変更等)の機能を停止します。
+- **Enable VRMSpringBone(default: ON)** - SpringBone(髪、スカート、尻尾等の揺れ)の機能を停止します。
+
+
 ## トラブルシューティング
 
 ### アバターが真っ白になる
