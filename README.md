@@ -65,4 +65,18 @@ TrueVRモードがONの時には特殊な補正をかけてるため発生しま
 
 ## ライセンス
 
-MIT license
+### VMCAvatar(MIT License)
+
+[https://github.com/nagatsuki/VMCAvatar-BS](https://github.com/nagatsuki/VMCAvatar-BS)  
+Copyright (c) 2019 Yukina Nagatsuki
+
+### UniVRM(MIT License)
+
+[https://github.com/vrm-c/UniVRM](https://github.com/vrm-c/UniVRM)  
+Copyright (c) 2018 DWANGO Co., Ltd. for UniVRM  
+Copyright (c) 2018 ousttrue for UniGLTF, UniHumanoid  
+Copyright (c) 2018 Masataka SUMI for MToon
+
+### OSCJack(Public Domain)
+
+[https://github.com/keijiro/OscJack](https://github.com/keijiro/OscJack)
