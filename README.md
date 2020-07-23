@@ -1,5 +1,6 @@
 # VMCAvatar
-![logo](https://user-images.githubusercontent.com/6268224/88315584-6c39e500-cd51-11ea-90ee-dec8e7ace307.png)
+![logo](https://user-images.githubusercontent.com/6268224/88315584-6c39e500-cd51-11ea-90ee-dec8e7ace307.png)  
+![VMCProtocol logo](https://user-images.githubusercontent.com/6268224/88319874-bde56e00-cd57-11ea-9fb4-f0be850cdc95.png)  
 
 VMCAvatarは[バーチャルモーションキャプチャー](https://github.com/sh-akira/VirtualMotionCapture)からモーションデータを受け取って[Beat Saber](https://beatsaber.com/)内にアバターを表示するModです。
 
