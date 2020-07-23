@@ -1,4 +1,5 @@
 # VMCAvatar
+![logo](https://user-images.githubusercontent.com/6268224/88315584-6c39e500-cd51-11ea-90ee-dec8e7ace307.png)
 
 VMCAvatarは[バーチャルモーションキャプチャー](https://github.com/sh-akira/VirtualMotionCapture)からモーションデータを受け取って[Beat Saber](https://beatsaber.com/)内にアバターを表示するModです。
 
@@ -69,6 +70,12 @@ TrueVRモードがONの時には特殊な補正をかけてるため発生しま
 
 [https://github.com/nagatsuki/VMCAvatar-BS](https://github.com/nagatsuki/VMCAvatar-BS)  
 Copyright (c) 2019 Yukina Nagatsuki
+
+### VMCAvatarロゴ
+
+[https://twitter.com/hibit_at/status/1256418736191373313](https://twitter.com/hibit_at/status/1256418736191373313)  
+[https://twitter.com/hibit_at/status/1256418736191373313](https://twitter.com/hibit_at/status/1256418736191373313)  
+Copyright (c) 2020 hibit
 
 ### UniVRM(MIT License)
 
