@@ -13,7 +13,7 @@ VMCAvatarは[バーチャルモーションキャプチャー](https://github.co
 ## インストール
 
 1. バーチャルモーションキャプチャー v0.42以降のOSC送信に対応したバージョン(2020/04/11現在、**pixivFANBOX版のみ**)に更新する
-2. VMCAvatar.dllをBeat SaberのインストールフォルダにあるPluginsフォルダへコピーする
+2. VMCAvatar.dllをBeat Saberのインストールフォルダ**直下**にあるPluginsフォルダへコピーする(Beat Saber\Beat Saber_Data\Plugins**ではありません**)
 3. バーチャルモーションキャプチャーの「詳細設定」→「OSCでモーション送信を有効にする」のチェックを入れる
 4. VRMファイルを読み込む(VRoid Hubからの読み込みは非対応)
 5. キャリブレーションをMRモード(下の二つのどちらか)で実行する
