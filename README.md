@@ -35,7 +35,7 @@ Mod Settings→VMC Avatar
 ### アバターが真っ白になる
 
 現在の制限事項です。
-「Settings」→「Advanced Graphics」→「Bloom Post Process」をOFFにしてください。
+Beat Saber のゲーム内画面にて、「Settings」→「Advanced Graphics」→「Bloom Post Process」をOFFにしてください。
 
 
 ### プチフリ(数十秒おきに数十～数百ミリ秒の停止)が発生する
