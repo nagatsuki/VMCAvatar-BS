@@ -73,6 +73,10 @@ TrueVRモードがONの時には特殊な補正をかけてるため発生しま
 - CustomAvatar MODに付属してるCameraPlusは改変版となっており正常に表示できません。公式版に変更してください。
 - <Beat Saberインストール先>\Logs直下にあるログファイル(日付_時間.log)を送ってくれれば原因究明できるかもしれません。
 
+## 連絡先
+- Twitter - [@ngtkd](https://twitter.com/ngtkd)
+- Discord - 長月ゆきな#9672
+
 
 ## ライセンス
 
