@@ -26,8 +26,8 @@ Mod Settings→VMC Avatar
 - **Avatar visible in first person(default: ON)** - OFFにすると、HMD内にアバターが表示されなくなります。
 袖が大きすぎて視界が塞がれてプレイに支障が出るような状況で使うことを想定しています。
 - **TrueVR Mode(default: OFF)** - VRchatのようにユーザーがアバターサイズになるモードです。通常はプレイヤーの腕の長さと高さを基準にアバターのサイズを変更しますが、ONにするとアバターの腕の長さと高さにプレイヤーのサイズを変更します。
-- **Enable VRMBlendShape(default: ON)** - BlendShape(まばたき、表情変更等)の機能を停止します。
-- **Enable VRMSpringBone(default: ON)** - SpringBone(髪、スカート、尻尾等の揺れ)の機能を停止します。
+- **Enable VRMBlendShape(default: ON)** - OFFにすると、BlendShape(まばたき、表情変更等)の機能を停止します。
+- **Enable VRMSpringBone(default: ON)** - OFFにすると、SpringBone(髪、スカート、尻尾等の揺れ)の機能を停止します。
 
 
 ## トラブルシューティング
