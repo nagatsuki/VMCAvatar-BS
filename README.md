@@ -101,3 +101,8 @@ Copyright (c) 2018 Masataka SUMI for MToon
 ### OSCJack(Public Domain)
 
 [https://github.com/keijiro/OscJack](https://github.com/keijiro/OscJack)
+
+### GlassPad3CameraBehavior(MIT License)
+
+[https://github.com/Ibodan/GlassPad3CameraBehavior](https://github.com/Ibodan/GlassPad3CameraBehavior)  
+Copyright (c) 2020 Ibodan
