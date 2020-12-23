@@ -34,8 +34,11 @@ Mod Settings→VMC Avatar
 
 ### アバターが真っ白になる
 
-現在の制限事項です。
+Bloomエフェクトとアルファブレンド(半透明)のどちらかしか使えないBeat Saber側の制限による仕様です。
+VMCAvatarではアバターの正確な表示を優先するため、Bloomエフェクトは使えません。
 Beat Saber のゲーム内画面にて、「Settings」→「Advanced Graphics」→「Bloom Post Process」をOFFにしてください。
+
+アルファブレンドが使えなくても問題がないのでBloomエフェクトを使いたい(CutOutが使えれば充分)という方は[VMCAvatarMaterialChange](https://github.com/Reiya1013/VMCAvatarMaterialChange)を併用してください。
 
 
 ### プチフリ(数十秒おきに数十～数百ミリ秒の停止)が発生する
