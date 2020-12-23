@@ -41,7 +41,7 @@ Beat Saber のゲーム内画面にて、「Settings」→「Advanced Graphics�
 ### プチフリ(数十秒おきに数十～数百ミリ秒の停止)が発生する
 
 ガベージコレクション(GC、メモリの解放処理)が行われるためです。
-[TrashMan](https://github.com/monkeymanboy/BeatSaberTrashMan)(ModAssistantでインストール可能)を入れて”Disable GC during gameplay”をONにすると、楽曲のプレイ中はGCが行われなくなります。
+[LagKiller](https://github.com/denpadokei/BeatSaberLagKiller)でGCの動作を調整できます。
 
 
 ### 重い
