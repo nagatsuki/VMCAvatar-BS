@@ -10,6 +10,16 @@ VMCAvatarは[バーチャルモーションキャプチャー](https://github.co
 - [リリース版バイナリ](https://github.com/nagatsuki/VMCAvatar-BS/releases)
 
 
+## 関連ソフトウェア
+
+- [必須] [バーチャルモーションキャプチャー](https://vmc.info/) - モーションの送信に使用します
+- [必須] [BSIPA](https://github.com/bsmg/BeatSaber-IPA-Reloaded)(ModAssistantでインストール可) - Beat SaberでModをロードするために必要になります
+- [必須] [BSML](https://github.com/monkeymanboy/BeatSaberMarkupLanguage)(ModAssistantでインストール可) - UIの表示に必要になります
+- [CameraPlus](https://github.com/Snow1226/CameraPlus)(ModAssistantでインストール可) - 三人称視点での表示に必要になります
+- [VMCAvatarMaterialChange](https://github.com/Reiya1013/VMCAvatarMaterialChange) - Bloomエフェクトを使用したい場合に必要になります
+- [NalulunaModifier](https://github.com/nalulululuna/NalulunaModifier) - Feet Saber等をプレイしたい場合に必要になります
+
+
 ## インストール
 
 1. バーチャルモーションキャプチャー v0.42以降のOSC送信に対応したバージョン(2020/04/11現在、**pixivFANBOX版のみ**)に更新する
