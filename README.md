@@ -15,7 +15,7 @@ VMCAvatarは[バーチャルモーションキャプチャー](https://github.co
 - [必須] [バーチャルモーションキャプチャー](https://vmc.info/) - モーションの送信に使用します
 - [必須] [BSIPA](https://github.com/bsmg/BeatSaber-IPA-Reloaded)(ModAssistantでインストール可) - Beat SaberでModをロードするために必要になります
 - [必須] [BSML](https://github.com/monkeymanboy/BeatSaberMarkupLanguage)(ModAssistantでインストール可) - UIの表示に必要になります
-- [CameraPlus](https://github.com/Snow1226/CameraPlus)(ModAssistantでインストール可) - 三人称視点での表示に必要になります
+- [CameraPlus](https://github.com/Snow1226/CameraPlus) - 三人称視点での表示に必要になります
 - [VMCAvatarMaterialChange](https://github.com/Reiya1013/VMCAvatarMaterialChange) - Bloomエフェクトを使用したい場合に必要になります
 - [NalulunaModifier](https://github.com/nalulululuna/NalulunaModifier) - Feet Saber等をプレイしたい場合に必要になります
 
