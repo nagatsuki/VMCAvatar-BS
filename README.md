@@ -50,6 +50,7 @@ Beat Saber のゲーム内画面にて、「Settings」→「Advanced Graphics�
 
 アルファブレンドが使えなくても問題がないのでBloomエフェクトを使いたい(CutOutが使えれば充分)という方は[VMCAvatarMaterialChange](https://github.com/Reiya1013/VMCAvatarMaterialChange)を併用してください。
 
+**VRMでは半透明が使えない等の誤った情報が広まると外部に迷惑がかかるので、ちゃんとした説明なしでMaterialChangeを勧める行為はやめてください。**
 
 ### プチフリ(数十秒おきに数十～数百ミリ秒の停止)が発生する
 
