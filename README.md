@@ -48,12 +48,6 @@ Mod Settings→VMC Avatar
 Beat Saber のゲーム内画面にて、「Settings」→「Advanced Graphics」→「Bloom Post Process」をOFFにするか、[VMCAvatarMaterialChange](https://github.com/Reiya1013/VMCAvatarMaterialChange)を併用してください。
 
 
-### プチフリ(数十秒おきに数十～数百ミリ秒の停止)が発生する
-
-ガベージコレクション(GC、メモリの解放処理)が行われるためです。
-[LagKiller](https://github.com/denpadokei/BeatSaberLagKiller)でGCの動作を調整できます。
-
-
 ### 重い
 
 Unityの仕様上、11.1ミリ秒(Vive系、初代Oculus Riftなど90Hzの場合)以内にBeat Saber本体の処理 + 他のModの処理 + VMCAvatarの処理 + Unityの処理を一つのスレッドで処理しないとならないのでCPU処理が非常にシビアです。VRMモデルの最適化を検討してください。
